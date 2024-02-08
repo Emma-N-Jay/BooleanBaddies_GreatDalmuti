@@ -1,0 +1,41 @@
+KEY:
+GD = Greater Dalmuti
+LD = Lesser Dalmuti
+GP = Greater Peon
+GL = Lesser Peon
+J = Jester
+P = Peasants
+
+
+
+The number on a card is called its rank. The lower the rant the better the cards and more rare.
+
+
+OBJECT:
+
+Get rid of cards a soon as possible. The sooner you get rid of them the higher your social class next round.
+Lowest card number (Highest ranked) goes first. The play number is in order of rank.
+Greatest Peon shuffles and deals!!
+
+
+Great Dalmuti
+
+Set-up:
+Each player draw and reveal a card. Arrange seating by rank. The best card is the Greater Dalmuti, who plays first. The second best card is the Lesser Dalmuti, who sits to the left of the Greater and so on. The player with the worst card is the Greater Peon. Break ties by drawing additional cards.
+
+The Peons must pay taxes. The Greater Peon chooses their two best cards to give to the GD and the GD gives two card to GP. The LP and LD do the same, but with one card. Exchanges happen at the same time.
+
+If any player is delt both J, they can call a revolution. Revolution means no tax. If the GP declares revolution, it's a greatrev. That means all players change seats with their opposite. GP becomes GD and LP becomes LD.
+
+
+ACTIONS:
+
+Pay/Recieve Taxes: GD gets 2 lowest cards from GP, and gives GP 2 cards of choosing. Same goes for LD and LP, but with only 1 card.
+
+Revolution: If you recieve both jesters, you can all a revolution. If the GP calls revolution, everyone switches roles. GP becomes GD and LP becomes LP. If LP calls revolution, there are no taxes.
+
+Shuffle: The deck is shuffled by GP and handed out, starting with the GD.
+
+Play Card/s: At beginning of round, starts with GD. After, starts with the leader. (The leader is whoever played last and every other player passed)
+
+Pass: If you don't have the correct number of cards or a lower value card, then you must pass.
